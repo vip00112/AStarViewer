@@ -1,0 +1,10 @@
+C:\Users\KTG\source\repos\AStar\AStar\bin\Release\AStar.exe.config
+C:\Users\KTG\source\repos\AStar\AStar\bin\Release\AStar.exe
+C:\Users\KTG\source\repos\AStar\AStar\bin\Release\AStar.pdb
+C:\Users\KTG\source\repos\AStar\AStar\obj\Release\AStar.csprojResolveAssemblyReference.cache
+C:\Users\KTG\source\repos\AStar\AStar\obj\Release\AStar.MainForm.resources
+C:\Users\KTG\source\repos\AStar\AStar\obj\Release\AStar.Properties.Resources.resources
+C:\Users\KTG\source\repos\AStar\AStar\obj\Release\AStar.csproj.GenerateResource.cache
+C:\Users\KTG\source\repos\AStar\AStar\obj\Release\AStar.csproj.CoreCompileInputs.cache
+C:\Users\KTG\source\repos\AStar\AStar\obj\Release\AStar.exe
+C:\Users\KTG\source\repos\AStar\AStar\obj\Release\AStar.pdb
